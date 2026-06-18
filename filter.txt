@@ -28,3 +28,6 @@
 ||graph.facebook.com^
 ||advertising-cdn.dpgmedia.cloud^
 ||creative.dpgdsp-adv-prod.dpgmedia.cloud^
+||c.dpgmedia.net/a/b^
+||ad-delivery.net^
+||nmodpgendpoint.2cnt.net^
