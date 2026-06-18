@@ -1,0 +1,30 @@
+!
+! Title: Dutch Ad Blocklist
+! Description: A blocklist targeting Dutch advertising networks, trackers, and affiliate platforms
+! Version: 1.0.0
+! Homepage: https://github.com/Struis112/Dutch_Ad_Blocklist
+! Maintainer: Struis112
+! Last modified: 2026-06-18
+!
+
+||manager.com^
+||qmusic.be^
+||googlesyndication.com^
+||googleadservices.com^
+||2mdn.net^
+||doubleverify.com^
+||adnxs-simple.com^
+||roivenue.com^
+||amazon-adsystem.com^
+||ads.pexi.nl^
+||adsdkprod.azureedge.net^
+||ep2.adtrafficquality.google^
+||turn.com^
+||adsdk.bing.net^
+||admanmedia.com^
+||adx.opera.com^
+||blismedia.com^
+||bidswitch.net^
+||graph.facebook.com^
+||advertising-cdn.dpgmedia.cloud^
+||creative.dpgdsp-adv-prod.dpgmedia.cloud^
