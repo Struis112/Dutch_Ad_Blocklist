@@ -53,6 +53,7 @@
 @@||wasteapi.ximmio.com^
 @@||adguardcdn.com^
 @@||adguard-dns.io^
+@@||videolan.nl.mirrors.airvpn.org/vlc/
 
 ! ============================================================
 ! [MY CUSTOM ENTRIES]
