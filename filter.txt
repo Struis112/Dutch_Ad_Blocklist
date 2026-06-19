@@ -10,14 +10,39 @@
 ! EXTERNAL SUBSCRIPTIONS (add these separately in your blocker)
 ! These lists are too large to embed but are highly recommended:
 !
+! --- Ads & Tracking ---
+!
 ! Hagezi Light (45K entries, ads/tracking/telemetry):
 !   https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
 !
 ! OISD Basic (large, low false-positives, widely trusted):
 !   https://dbl.oisd.nl/basic
 !
+! OISD Big (extended OISD with broader threat coverage):
+!   https://big.oisd.nl/
+!
 ! ph00lt0 Blocklist (complements Hagezi + OISD):
 !   https://raw.githubusercontent.com/ph00lt0/blocklist/master/blocklist.txt
+!
+! --- Malware, Phishing & Threat Intelligence ---
+!
+! Hagezi TIF Mini (malware/phishing/scam/spam, lightweight):
+!   https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.mini.txt
+!
+! Hagezi TIF Medium (malware/phishing/scam/spam, balanced):
+!   https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt
+!
+! Hagezi TIF Full (malware/phishing/scam/spam, maximum coverage):
+!   https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
+!
+! Hagezi Fake & Scam Sites:
+!   https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt
+!
+! Phishing Army (dedicated phishing domain list):
+!   https://phishing.army/download/phishing_army_blocklist.txt
+!
+! DandelionSprout Anti-Malware (AdGuard Home format):
+!   https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
 ! ============================================================
 !
 
@@ -48,6 +73,9 @@
 ||c.dpgmedia.net^
 ||ad-delivery.net^
 ||nmodpgendpoint.2cnt.net^
+||ad.doubleclick.net^
+||analytics.google.com^
+||ads.youtube.com^
 
 ! ============================================================
 ! [EASYLIST DUTCH]

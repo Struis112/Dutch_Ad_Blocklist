@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/Struis112/Dutch_Ad_Blocklist/main/filter.txt
 - Dutch ad networks and affiliate platforms (Daisycon, TradeTracker, Awin, etc.)
 - Dutch publisher ad servers (STER, DPG Media, Telegraaf, RTL, etc.)
 - Dutch tracking and affiliate redirects
-- General ad infrastructure (Google Ads, Amazon Ads, DoubleVerify, etc.)
+- General ad infrastructure (Google Ads, Amazon Ads, DoubleVerify, DoubleClick, etc.)
 
 ## Sources
 
@@ -30,13 +30,27 @@ The list is compiled from the following sources, each clearly marked with a comm
 
 ## Recommended companion lists
 
-These lists are too large to embed but pair well with this one. Add them as separate subscriptions:
+These lists are too large to embed but pair well with this one. Add them as separate subscriptions in your blocker.
+
+### Ads & Tracking
 
 | List | URL |
 |---|---|
 | Hagezi Light | `https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt` |
 | OISD Basic | `https://dbl.oisd.nl/basic` |
+| OISD Big | `https://big.oisd.nl/` |
 | ph00lt0 Blocklist | `https://raw.githubusercontent.com/ph00lt0/blocklist/master/blocklist.txt` |
+
+### Malware, Phishing & Threat Intelligence
+
+| List | URL | Notes |
+|---|---|---|
+| Hagezi TIF Mini | `https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.mini.txt` | Lightweight, good for low-resource devices |
+| Hagezi TIF Medium | `https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt` | Balanced coverage |
+| Hagezi TIF Full | `https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt` | Maximum threat coverage |
+| Hagezi Fake & Scams | `https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt` | Scam and fake sites |
+| Phishing Army | `https://phishing.army/download/phishing_army_blocklist.txt` | Dedicated phishing domain list |
+| DandelionSprout Anti-Malware | `https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt` | AdGuard Home format |
 
 ## How to add in AdGuard Home
 
