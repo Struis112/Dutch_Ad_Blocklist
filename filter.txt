@@ -54,6 +54,7 @@
 @@||adguardcdn.com^
 @@||adguard-dns.io^
 @@||videolan.nl.mirrors.airvpn.org/vlc/
+@@||ximmio.com^
 
 ! ============================================================
 ! [MY CUSTOM ENTRIES]
