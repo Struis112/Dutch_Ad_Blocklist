@@ -50,6 +50,7 @@
 ! [ALLOWLIST — these domains are explicitly permitted]
 ! ============================================================
 @@||adguardaccount.com^
+@@||wasteapi.ximmio.com^
 
 ! ============================================================
 ! [MY CUSTOM ENTRIES]
