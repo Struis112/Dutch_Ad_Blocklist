@@ -1,7 +1,7 @@
 !
 ! Title: Dutch Ad Blocklist
 ! Description: A blocklist targeting Dutch advertising networks, trackers, and affiliate platforms
-! Version: 1.2.0
+! Version: 1.3.0
 ! Homepage: https://github.com/Struis112/Dutch_Ad_Blocklist
 ! Maintainer: Struis112
 ! Last modified: 2026-06-20
@@ -150,6 +150,12 @@
 @@||www.stremio.com^
 @@||youtu.be^
 @@||youtube.com^
+! --- batch added 2026-06-20 (b3) ---
+@@||connectivitycheck.gstatic.com^
+@@||xp.apple.com^
+@@||mask-api.icloud.com^
+@@||metrics.icloud.com^
+@@||mask-h2.icloud.com^
 
 ! ============================================================
 ! [MY CUSTOM ENTRIES]
@@ -342,3 +348,7 @@
 ||srv69.eu^
 ||views.affiliate4you.nl^
 ||webcash.nl^
+
+! --- batch added 2026-06-20 (b3) ---
+||ads-resources.waze.com^
+||accessibleweb.com^
