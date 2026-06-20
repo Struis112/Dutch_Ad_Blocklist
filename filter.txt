@@ -1,10 +1,10 @@
 !
 ! Title: Dutch Ad Blocklist
 ! Description: A blocklist targeting Dutch advertising networks, trackers, and affiliate platforms
-! Version: 1.1.0
+! Version: 1.2.0
 ! Homepage: https://github.com/Struis112/Dutch_Ad_Blocklist
 ! Maintainer: Struis112
-! Last modified: 2026-06-18
+! Last modified: 2026-06-20
 !
 ! ============================================================
 ! EXTERNAL SUBSCRIPTIONS (add these separately in your blocker)
@@ -55,6 +55,101 @@
 @@||adguard-dns.io^
 @@||videolan.nl.mirrors.airvpn.org/vlc/
 @@||ximmio.com^
+! --- batch added 2026-06-20 ---
+@@||5elevel.me^
+@@||7q8vwb-launches.appsflyersdk.com^
+@@||accounts.google.co.jp^
+@@||accounts.google.nl^
+@@||agnss.goog^
+@@||ai.google.dev^
+@@||apc.loket.nl^
+@@||api-pro.urban-vpn.com^
+@@||api.loket.nl^
+@@||app.weropay.eu^
+@@||appspot.com^
+@@||aqueduct.revolut.com^
+@@||authentication.urban-vpn.com^
+@@||b-graph.facebook.com^
+@@||blackdeer.carrd.co^
+@@||browser-intake-datadoghq.eu^
+@@||c.pki.goog^
+@@||checkip.dyndns.org^
+@@||claude.com^
+@@||collector.github.com^
+@@||connect.facebook.net^
+@@||console.dialogflow.com^
+@@||data-android.flitsmeister.app^
+@@||deepmind.google^
+@@||developer.android.com^
+@@||discord.com^
+@@||dns.google^
+@@||docs.flutter.dev^
+@@||dstruis.nl^
+@@||firebaseapp.com^
+@@||firebaseio.com^
+@@||flutter.dev^
+@@||gmail.com^
+@@||goog.gl^
+@@||google.com^
+@@||google.de^
+@@||google.nl^
+@@||googleapis.com^
+@@||googleusercontent.com^
+@@||googlevideo.com^
+@@||gotinder.com^
+@@||graph.facebook.com^
+@@||gstatic.com^
+@@||gvt1.com^
+@@||i.paypal.com^
+@@||i.ytimg.com^
+@@||introgame-webber.firebaseapp.com^
+@@||libgen.is^
+@@||liseberg.se^
+@@||lizard.click^
+@@||login.loket.nl^
+@@||lucky.nl^
+@@||lyktan-glimrande.business.site^
+@@||massgrave.dev^
+@@||media.tenor.com^
+@@||mega.co.nz^
+@@||mega.nz^
+@@||mijn.loket.nl^
+@@||mrgs.my.games^
+@@||myfleet.website^
+@@||nederlandseloterij.nl^
+@@||nest.com^
+@@||nl.pepper.com^
+@@||o.pki.goog^
+@@||outwar.com^
+@@||pagespeed.web.dev^
+@@||perplexity.ai^
+@@||pinokio.computer^
+@@||postnl.post^
+@@||prod.trackmania.core.nadeo.online^
+@@||roll20-99927.firebaseio.com^
+@@||share.google^
+@@||sj-app-72b19.firebaseio.com^
+@@||slipstream.skyscanner.net^
+@@||st2.adguardcdn.com^
+@@||static.pepper.com^
+@@||stats.urban-vpn.com^
+@@||stitch.withgoogle.com^
+@@||stremio.com^
+@@||time.android.com^
+@@||tinder.com^
+@@||tunnel.googlezip.net^
+@@||waze.com^
+@@||web.facebook.com^
+@@||webauthn.loket.nl^
+@@||woocommerce-1403622-5214620.cloudwaysapps.com^
+@@||workout.cool^
+@@||www.android.com^
+@@||www.dimakoltsov.com^
+@@||www.massagepraktijktwente.nl^
+@@||www.schuldinkautomotive.nl^
+@@||www.stremio.com^
+@@||youtu.be^
+@@||youtube.com^
 
 ! ============================================================
 ! [MY CUSTOM ENTRIES]
