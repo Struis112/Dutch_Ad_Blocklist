@@ -55,6 +55,21 @@
 @@||adguard-dns.io^
 @@||videolan.nl.mirrors.airvpn.org/vlc/
 @@||ximmio.com^
+@@||whatsappbusiness.com^
+@@||toolbox.googleapps.com^
+@@||push-notifications.lidlplus.com^
+@@||degiro.quotecast.vwdservices.com^
+@@||domains.google^
+@@||m.devolksbank.nl^
+@@||tags.tiqcdn.com^
+@@||zn4pl14we0yv2gjci-abnamrobank.siteintercept.qualtrics.com^
+@@||tiktokv.eu^
+@@||rgbplus.fluxcloud.eu^
+@@||supabase.io^
+@@||fonts.bunny.net^
+@@||cuatro.sim-cdn.nl^
+@@||officielebekendmakingen.nl^
+@@||cc.sj-cdn.net^
 
 ! ============================================================
 ! [MY CUSTOM ENTRIES]
