@@ -158,6 +158,7 @@
 @@||mask-h2.icloud.com^
 ! --- batch added 2026-06-27 ---
 @@||whatsappbusiness.com^
+@@||joybuy.nl^
 @@||toolbox.googleapps.com^
 @@||push-notifications.lidlplus.com^
 @@||degiro.quotecast.vwdservices.com^
