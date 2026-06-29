@@ -160,6 +160,7 @@
 @@||whatsappbusiness.com^
 @@||joybuy.nl^
 @@||bblcdn.eu^
+@@||nuki.io^
 @@||toolbox.googleapps.com^
 @@||push-notifications.lidlplus.com^
 @@||degiro.quotecast.vwdservices.com^
