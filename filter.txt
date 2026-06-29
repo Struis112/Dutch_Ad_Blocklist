@@ -159,6 +159,7 @@
 ! --- batch added 2026-06-27 ---
 @@||whatsappbusiness.com^
 @@||joybuy.nl^
+@@||bblcdn.eu^
 @@||toolbox.googleapps.com^
 @@||push-notifications.lidlplus.com^
 @@||degiro.quotecast.vwdservices.com^
